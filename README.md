@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ceylani-koc-086640135/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
-<a href="https://stackoverflow.com/users/17854116/asl%c4%b1han-t%c3%bcrkd%c3%b6nmez" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>
+<a href="https://stackoverflow.com/users/18987993/ceylani-ko%c3%a7" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>
 <a href="https://twitter.com/ceylanikoc" target="blank"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"></a>
 
 </p>
