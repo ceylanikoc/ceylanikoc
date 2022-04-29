@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 , I'm Ceylani KOÇ</h1>
 <h3 align="center">Frontend Developer From Turkey</h3>
 
-<!-- - 😎 I am an intern in the mobile department at [Kentkart](https://www.kentkart.com/tr) -->
 
 - 🔭 I'm currently working on  React
 
